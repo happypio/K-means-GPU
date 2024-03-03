@@ -1,0 +1,7 @@
+
+*.o
+
+kmeans_cpp
+kmeans_cu
+
+venv/
